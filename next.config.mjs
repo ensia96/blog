@@ -5,7 +5,7 @@ const NEXT_CONFIG = {
   // output, basePath, and images are required for GitHub Pages.
   // See https://github.com/gregrickaby/nextjs-github-pages
   output: "export",
-  // TODO(hojoon): replace repository name and change base path
+  // TODO: 기존 저장소 대체 이후에 base path 변경
   basePath: "/blog",
   images: {
     unoptimized: true,
